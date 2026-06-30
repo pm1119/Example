@@ -1,4 +1,5 @@
 # 프로세스 메모리 구역
+<img src="../Images/ProcessMemory.png" width=300 height=200></image>
 - 정의 
 	<!-- - ![ProcessMemory](../Images/ProcessMemory.png) -->
 	- RAM에 프로세스를 실행하기 위해 생성되는 메모리 구역
