@@ -22,4 +22,7 @@ private static void GetDirectory(string path)
         }
 - 테이블  
 Test|Test2|Test3
+---|---|---
+C#|C++|phthon
 Unity|Unreal|Godot
+meta|uasset|gasset
