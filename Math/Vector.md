@@ -6,10 +6,10 @@
 	- ${a^2+b^2}=c^2$
 	- $\sqrt{a^2+b^2}=c$
 - 2차 방정식의 해 : 근의 공식
-	- $\frac{-b \pm \sqrt{b^2-4ac}}{2a}$
-- 코드 블럭
+	- $\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
+- 코드 블럭  
    c#
-- private static void GetDirectory(string path)  
+private static void GetDirectory(string path)  
       {  
             string[] directories = Directory.GetDirectories(path);
 
@@ -22,4 +22,4 @@
         }
 - 테이블  
 Test|Test2|Test3
----|---|---
+Unity|Unreal|Godot
